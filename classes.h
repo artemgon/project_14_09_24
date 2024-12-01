@@ -23,7 +23,7 @@ public:
 		cout << "Point info: " << endl;
 		cout << "(" << x << ", " << y << ", " << z << ")" << endl;
     }
-	void setValues(float u_x_1, float u_y_1, float u_z_1)
+	void setFunc(float u_x_1, float u_y_1, float u_z_1)
 	{
 		x = u_x_1;
 		y = u_y_1;

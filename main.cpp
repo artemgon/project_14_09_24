@@ -3,7 +3,7 @@
 int main()
 {
 	Point p1(5, 6, 7), p2(15, 26, 11), p3;
-	p3.setValues(1, 7, 5);
+	p3.setFunc(1, 7, 5);
 	p1.printFunc();
 	p2.printFunc();
 	p3.printFunc();
